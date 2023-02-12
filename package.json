@@ -9,11 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "daisyui": "^2.50.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "versoly-ui": "^2.0.1"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@tailwindcss/forms": "^0.5.3",
+    "@tailwindcss/typography": "^0.5.9",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "@vitejs/plugin-react": "^3.1.0",
