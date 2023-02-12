@@ -1,5 +1,7 @@
-const sortProducts = () => {
+import products from "../data/data";
+
+const SortProducts = () => {
 
 }
 
-export default sortProducts;
+export default SortProducts;
