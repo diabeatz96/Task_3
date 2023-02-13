@@ -5,7 +5,7 @@
 
 > A website assignment for Web Development Course. This website has been designed to mimic a Tech Store and utilize various array methods in java.
 
-### ✨ [Demo](task4adam.netlify.app)
+### ✨ [Demo](https://task4adam.netlify.app)
 
 ## Install
 
