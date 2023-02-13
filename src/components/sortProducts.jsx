@@ -11,7 +11,7 @@ const SortProducts = () => {
             <h2 className="card-title text-2xl font-bold underline">
                 Sorted Product Cost
             </h2>
-                <table className=" table ">
+                <table className="table ">
                 <thead>
                         <th> </th>
                         <th> ID </th>

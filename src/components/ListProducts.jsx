@@ -17,7 +17,7 @@ const ListProducts = () => {
             
             })}
         </div> 
-            <div className="flex justify-center py-2 gap-2">
+            <div className="flex justify-center gap-1">
                 {products.map((item) => {
                    return <a href= {`#${item.id}`} className="btn btn-xs"> {item.name}</a>
                 })}
