@@ -1,11 +1,11 @@
-<h1 align="center">Welcome to task-4 👋</h1>
+<h1 align="center">Welcome to task-3 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
 > A website assignment for Web Development Course. This website has been designed to mimic a Tech Store and utilize various array methods in java.
 
-### ✨ [Demo](task4adam.netlify.app)
+### ✨ [Demo](https://task4adam.netlify.app)
 
 ## Install
 
